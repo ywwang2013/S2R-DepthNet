@@ -1,6 +1,15 @@
+# Please refer to https://github.com/microsoft/S2R-DepthNet for official PyTorch implementatio.
+
+
+
 # S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation
 
-This is the official PyTorch implementation of the paper [***S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation***](https://arxiv.org/abs/2104.00877), ***CVPR 2021 (Oral), Xiaotian Chen, Yuwang Wang, Xuejin Chen, and Wenjun Zeng.***
+
+
+
+
+
+This is not the official PyTorch implementation of the paper [***S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation***](https://arxiv.org/abs/2104.00877), ***CVPR 2021 (Oral), Xiaotian Chen, Yuwang Wang, Xuejin Chen, and Wenjun Zeng.***
 
 
 ## Citation
